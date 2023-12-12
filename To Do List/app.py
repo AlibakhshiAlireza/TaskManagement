@@ -41,7 +41,7 @@ def delete_task(task_id):
 
 @app.route('/api/tasks', methods=['GET', 'POST'])
 def api_tasks():
-    pass  # Add logic to handle API for tasks
+    pass  
 
 if __name__ == '__main__':
     create_db()
