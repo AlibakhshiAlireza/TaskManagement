@@ -1,2 +1,1 @@
-# AP-SHARIF-1401-2
-Repository contains class material about flask projects and ppt slides
+# Task Management with db and flask
